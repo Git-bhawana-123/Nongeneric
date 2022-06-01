@@ -1,0 +1,8 @@
+D:\Assignement\NonGenreicClassAssignment\NonGenreicClassAssignment\bin\Debug\NonGenreicClassAssignment.exe.config
+D:\Assignement\NonGenreicClassAssignment\NonGenreicClassAssignment\bin\Debug\NonGenreicClassAssignment.exe
+D:\Assignement\NonGenreicClassAssignment\NonGenreicClassAssignment\bin\Debug\NonGenreicClassAssignment.pdb
+D:\Assignement\NonGenreicClassAssignment\NonGenreicClassAssignment\obj\Debug\NonGenreicClassAssignment.csproj.AssemblyReference.cache
+D:\Assignement\NonGenreicClassAssignment\NonGenreicClassAssignment\obj\Debug\NonGenreicClassAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Assignement\NonGenreicClassAssignment\NonGenreicClassAssignment\obj\Debug\NonGenreicClassAssignment.csproj.CoreCompileInputs.cache
+D:\Assignement\NonGenreicClassAssignment\NonGenreicClassAssignment\obj\Debug\NonGenreicClassAssignment.exe
+D:\Assignement\NonGenreicClassAssignment\NonGenreicClassAssignment\obj\Debug\NonGenreicClassAssignment.pdb
